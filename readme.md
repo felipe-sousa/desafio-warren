@@ -58,13 +58,13 @@ $ git clone https://github.com/felipe-sousa/desafio-warren.git
 $ cd desafio-warren
 
 # Para executar o desafio 1, rode no seu terminal
-$ ruby desafio-01.ruby
+$ ruby desafio-01.rb
 
 # Para executar o desafio 2, rode no seu terminal
-$ ruby desafio-02.ruby
+$ ruby desafio-02.rb
 
 # Para executar o desafio 3, rode no seu terminal
-$ ruby desafio-03.ruby
+$ ruby desafio-03.rb
 ```
   
 ---
